@@ -13,10 +13,8 @@ Useful for:
 
 - ✅ Prevents **system sleep** and/or **display sleep**
 - ✅ Supports **timeout** with `-t` (in seconds)
-- ✅ Prints the active flags in hex (like `0x80000003`)
 - ✅ Gracefully exits and restores sleep settings
-- ✅ No unwanted output (like `2147483648`)
-- ✅ Supports basic cross-terminal execution (`cmd`, `PowerShell`, Windows Terminal)
+- ✅ Supports basic cross-terminal execution (`cmd`, `PowerShell`, `Windows Terminal`)
 
 ---
 
